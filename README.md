@@ -8,4 +8,4 @@
 * нет отображения хешрейта idle майнера
 
 
-Описание: https://github.com/pave-lkha/qubic_multi_switch/wiki
+Описание: https://github.com/pave-lkha/qubic_multi_switch_qlab/wiki
